@@ -1,0 +1,16 @@
+h1 {
+    color: blue;
+
+    text-align: center;
+  }
+h2 {
+    color: #77210F;
+    font-style: italic;
+    text-align: center;
+ }
+ p {
+   font-family: sans-se sans-serif;
+ }
+ ul {
+    line-height: 40px;
+  }
