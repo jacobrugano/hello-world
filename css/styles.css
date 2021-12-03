@@ -72,3 +72,15 @@ float: left;
 .dogs p {
   background-color: steelbluel;
 }
+}
+.cats p a {
+  font-weight: bold;
+}
+}
+.dogs p a {
+  font-style: italic;
+  @media screen and (min-width: 580px) and (max-width: 767px) {
+   body {
+     background-color: black;
+     color: white;
+   }
