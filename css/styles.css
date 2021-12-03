@@ -96,3 +96,9 @@ float: left;
      padding: 15px;
    }
   }
+img {
+  float: left;
+}
+.test-box {
+  border: 2px solid red;
+}
