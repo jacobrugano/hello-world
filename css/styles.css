@@ -65,3 +65,10 @@ float: left;
   margin: 20px;
   background-color: yellow;
 }
+.cats p {
+  background-color: coral;
+}
+}
+.dogs p {
+  background-color: steelbluel;
+}
