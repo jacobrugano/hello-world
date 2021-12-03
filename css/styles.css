@@ -23,3 +23,12 @@ ul {
   p.author {
     font-size: 12px;
   }
+  .important {
+    color:red;
+  }
+  .unimportant {
+    color: blue
+  }
+  .cat-climate {
+     background-color: <div class="column">;
+  }
