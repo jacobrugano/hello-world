@@ -49,3 +49,7 @@ float: left;
   float: right;
 
 }
+.column {
+  width: 450px;
+  float: left;
+}
