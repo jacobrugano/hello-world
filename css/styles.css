@@ -14,3 +14,91 @@ h2 {
  ul {
     line-height: 40px;
   }
+  .intro {
+        font-style: italic;
+      }
+  .author {
+     color: red;
+   }
+   p.author {
+     font-size: 12px;
+   }
+   .important {
+     color:red;
+   }
+   .unimportant {
+     color: blue
+   }
+   .cat-climate {
+      background-color: <div class="column">;
+   }
+   img {
+     float: left;
+   }
+   img {
+     display:block;
+     margin-left: auto;
+     margin-right: auto;
+     width: 40%
+   }
+img {
+  float: left;
+}
+.sidebar {
+  width: 40%;
+  float: right;
+
+}
+.column {
+  width: 450px;
+  float: left;
+}
+.test-box{
+  border-left: 2px solid red;
+  border-right: 4px solid blue;
+  border-top: 6px solid orange;
+  border-bottom: 8px solid-black;
+}
+.test {
+  border: 2px solid red;
+  padding: 6px
+  margin: 20px;
+  background-color: yellow;
+}
+.cats p {
+  background-color: coral;
+}
+}
+.dogs p {
+  background-color: steelbluel;
+}
+}
+.cats p a {
+  font-weight: bold;
+}
+}
+.dogs p a {
+  font-style: italic;
+  @media screen and (min-width: 580px) and (max-width: 767px) {
+   body {
+     background-color: black;
+     color: white;
+   }
+  }
+  @media screen and (min-width: 768px) {
+   body {
+     background-color: yellowgreen;
+     color: white;
+  }
+  .column {
+     width: 390px;
+
+     float: left;
+     padding: 15px;
+   }
+  }
+  <div class="container">
+      <div class="jumbotron">
+        1
+      </div>
+    </div>
